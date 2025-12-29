@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hilmy 👋
 
-<!--
-**hilmy-sama/hilmy-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student with interest in
+Web Development, System Engineering, and Cloud Infrastructure.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- PHP, MySQL
+- HTML, CSS, JavaScript
+- Docker & Linux
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- **Tourism Guide Web App**  
+  PHP-based web application with Dockerized environment  
+- **DNS & Server Monitoring**  
+  BIND9 + Nagios implementation
+
+## 🌱 Currently Learning
+- Cloud Infrastructure
+- DevOps fundamentals
+- Secure Web Deployment
+
+## 📫 Contact
+- GitHub: [@hilmy-sama](https://github.com/hilmy-sama)
